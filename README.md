@@ -1,7 +1,7 @@
 ![counter](https://enmlebrrkhwcdjq.m.pipedream.net)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=docongminh&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docongminh&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docongminh&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
